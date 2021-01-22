@@ -2,6 +2,8 @@
 
 scene_text_detection_recognition_and_translation.ipynb has full innstruction and reference to execute this whole project.
 
+![](https://ibb.co/hLQh0DL)
+
 External references:
 * https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/
 * https://github.com/saveriomiroddi/EasyOCR-dev
